@@ -1,0 +1,8 @@
+out/
+*.class
+rescue_radio_save.txt
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+nbproject/private/
